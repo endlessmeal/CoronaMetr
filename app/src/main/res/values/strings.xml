@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Коронаметр</string>
+    <string name="title_home">Россия</string>
+    <string name="title_dashboard">Мир</string>
+</resources>
