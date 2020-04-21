@@ -17,4 +17,10 @@
         android:label="@string/app_name"
         tools:layout="@layout/fragment_dashboard" />
 
+    <fragment
+        android:id="@+id/navigation_help"
+        android:name="com.perfectlogic.fragments.ui.help.HelpFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_help" />
+
 </navigation>

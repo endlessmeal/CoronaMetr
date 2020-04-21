@@ -11,4 +11,8 @@
         android:icon="@drawable/globe"
         android:title="@string/title_dashboard" />
 
+    <item
+        android:id="@+id/navigation_help"
+        android:icon="@drawable/health"
+        android:title="@string/title_help" />
 </menu>
